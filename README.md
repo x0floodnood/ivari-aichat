@@ -12,25 +12,9 @@ To start using Ivari AI, simply add the bot to your Telegram and type in your qu
 
 Example Commands
 "Give me dating advice."
-"Analyze this trading chart for me."
+"Analyze this chart trading chart for me."
 "Let's chat!"
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/ivari-ai-bot.git
-Navigate to the project directory:
-bash
-Copy code
-cd ivari-ai-bot
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the bot:
-bash
-Copy code
-python bot.py
+
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
